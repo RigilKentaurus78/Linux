@@ -213,3 +213,4 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 # Kill the wallpaper window set by Plasma*
 for_window [title="Desktop — Plasma"] kill; floating enable; border none
 
+# Test
