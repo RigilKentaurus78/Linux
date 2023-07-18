@@ -1,3 +1,4 @@
 # Linux
 Config files for my setup
-![2023-07-17_15-12](https://github.com/RigilKentaurus78/Linux/assets/109463274/d164f164-f041-41af-a798-82646b9a37c3)
+
+![2023-07-18_14-22](https://github.com/RigilKentaurus78/Linux/assets/109463274/98c2a2bf-078b-4ac5-af5e-69d1fd8828d0)
